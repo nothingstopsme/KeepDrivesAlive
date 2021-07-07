@@ -2,7 +2,7 @@
 This is an alternative programme (and rather simplified one) to [this](https://github.com/stsrki/KeepAliveHD), which is used to thwart the undesired power-saving/standby mode automatically activated by your external hard-drive controller.
 
 ## Rationale
-It has been observed that my old external drive incurred a noticeable amount of seeking operations resuling from the periodic file-writing operations as the trick to force it to stay responsive; therefore it would be great if my drive can suffer less from those extra costs and gain a longer lifespan, while the same purpose is still fulfilled. 
+It has been observed that my old external drive incurred a noticeable amount of seeking operations resuling from the periodic file-writing as the trick to force it to stay responsive; therefore it would be great if my drive can suffer less from those extra costs and gain a longer lifespan, while the same purpose is still fulfilled. 
 
 ## Features
 To reduce the overheads and increase efficiency, a different approach is taken highlighting the following designs
